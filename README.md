@@ -10,6 +10,7 @@ This repository is a supplement to the paper "Enhanced Conditional Forecasting D
 - Data Descriptive Analysis: jupyter notebook used for Section 4 of the research
 
 ## How to use the forecaster?
+- Make sure that Pytorch is correctly installed (see: https://github.com/pytorch/pytorch#from-source for an extensive explanation)
 - Change product type to desired target commodity
 - Run all cells
 - Change energy price and trading intensity to generate scenario forecasts interactively 
